@@ -1,0 +1,12 @@
+.card-article {
+  margin: 3px;
+}
+
+.card-article a {
+  text-decoration: none;
+  color: #00a8ff;
+}
+.card-article a:hover {
+  background-color: #00a8ff;
+  color: white;
+}
